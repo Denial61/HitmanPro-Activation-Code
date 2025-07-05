@@ -7,7 +7,7 @@ How Do I Use a HitmanPro Activation Code Effectively?
 
 Discover how to activate HitmanPro using a valid activation code, its features, and answers to common FAQs in this detailed guide.
 
-  .. image:: https://expressvpn-activation.readthedocs.io/en/latest/_images/activate.jpg
+  .. image:: activate.jpg
    :alt: HitmanPro Activation Code
    :width: 400px
    :align: center
